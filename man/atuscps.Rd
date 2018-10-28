@@ -41,4 +41,3 @@ barplot(table(atuscps$race), horiz=TRUE, las=1)
 hist(atuscps$age)
 }
 \keyword{datasets}
-
